@@ -5,13 +5,17 @@ Students will implement a basic calculator that handles fractions.
 
 ## Checkpoints
 
+
+
+### [Checkpoint 1](checkpoint-1.md)
+
 **Due: 11/20/18** 
 
-[Checkpoint 1](checkpoint-1.md):Input loop that quits correctly and
+Input loop that quits correctly and
     echoes the parts of the input. Your program **must** store the fractions
     internally as something other than a string before echoing the fractions.
 
-**Example*:**
+**Example:**
 
 ```
 Input: **1/4 + 1_1/2**  
@@ -22,9 +26,9 @@ Input: **quit**
 Goodbye!
 ```
 
-**Due 11/28/18(p2), 11/29/18(p1)**
+### Checkpoint 2
 
-Checkpoint 2: 
+**Due 11/28/18(p2), 11/29/18(p1)**
 
 See details in the
     checklist for checkpoint \#2. Parsing the fractions: handle mixed and
