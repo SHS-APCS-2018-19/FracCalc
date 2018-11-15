@@ -1,13 +1,9 @@
 # FracCalc
 Fraction calculator
 
-Students will implement a basic calculator that handles fractions.
+Students will implement a basic calculator that handles fraction
 
-## Checkpoints
-
-
-
-### [Checkpoint 1](checkpoint-1.md)
+## [Checkpoint 1](checkpoint-1.md)
 
 **Due: 11/20/18** 
 
@@ -26,7 +22,7 @@ Input: **quit**
 Goodbye!
 ```
 
-### Checkpoint 2
+## Checkpoint 2
 
 **Due 11/28/18(p2), 11/29/18(p1)**
 
